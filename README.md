@@ -12,3 +12,7 @@ libraries required are : <br>
 <b>shiny</b> for UI<br>
 
 Platform used is Rstudio.
+
+# Screenshots
+![alt tag](https://cloud.githubusercontent.com/assets/20504256/16902479/6aafbfd8-4c7d-11e6-98a6-0b1141f8af58.png) <br>
+![alt tag](https://cloud.githubusercontent.com/assets/20504256/16902493/dbd8600c-4c7d-11e6-9d40-439e5d10b9a8.png)
